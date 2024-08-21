@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @gabiii09
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-gabiii09/gabiii09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ola, meu nome é gabriela
+tenho 14 anos
+estudo no helena kolody
+estou no 1 ano do ensino medio
+não sou inteligente mas me esforco bastante
+tenho uma amiga chamada Ana
+ainda não estou em nenhum curso
+para entr
